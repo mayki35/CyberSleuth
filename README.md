@@ -1,5 +1,5 @@
 # GhostTrack
-Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
+Herramienta útil para rastrear la ubicación o el número de móvil, ip, y datos para civiles peruanos. Por lo que esta herramienta puede ser llamada OSINT o también recopilación de información.
 
 <a href="https://github.com/mayki35"><img src="https://github.com/mayki35.png" width="300" height="300" alt="mayki36"/></a>
 
