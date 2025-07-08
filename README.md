@@ -11,7 +11,7 @@ vercion del script:
 git clone https://github.com/mayki35/CyberSleuth.git
 ```
 ```
-cd GhostTrack
+cd CyberSleuth
 ```
 ```
 sudo su
@@ -20,7 +20,7 @@ sudo su
 python -m venv venv
 ```
 ```
-sourse .\venv\bin\activate
+sourse /venv/bin/activate
 ```
 ```
 pip install -r requirements.txt
