@@ -20,7 +20,7 @@ sudo su
 python -m venv venv
 ```
 ```
-sourse /venv/bin/activate
+source ./venv/bin/activate
 ```
 ```
 pip install -r requirements.txt
