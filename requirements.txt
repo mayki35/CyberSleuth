@@ -1,5 +1,10 @@
 requests
 phonenumbers
 selenium
+Pillow
+PyPDF2
+mutagen
+webdriver-manager
 beautifulsoup4
 lxml
+stegano
