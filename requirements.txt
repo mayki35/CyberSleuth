@@ -1,0 +1,14 @@
+requests
+phonenumbers
+selenium
+Pillow
+PyPDF2
+mutagen
+webdriver-manager
+beautifulsoup4
+lxml
+stegano
+python-dotenv
+python-whois
+dnspython
+shodan
