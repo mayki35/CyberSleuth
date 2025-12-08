@@ -99,4 +99,3 @@ El proyecto ha sido refactorizado para ser modular:
 
 ## Créditos
 Creado por mayki35.
-Mejorado y refactorizado por Antigravity.
