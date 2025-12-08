@@ -36,8 +36,7 @@ Una completa herramienta OSINT (Open Source Intelligence) de línea de comandos,
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/mayki35/CyberSleuth.git
-   cd CyberSleuth
+   git clone https://github.com/mayki35/CyberSleuth.git && cd CyberSleuth
    ```
 
 2. **Crear un entorno virtual (Recomendado)**:
@@ -69,7 +68,7 @@ Una completa herramienta OSINT (Open Source Intelligence) de línea de comandos,
 Para iniciar la herramienta, ejecuta el siguiente comando desde la raíz del proyecto (asegúrate de tener el entorno virtual activado):
 
 ```bash
-python -m cybersleuth.main
+cd wordlists && python -m cybersleuth.main
 ```
 
 ### Navegación
